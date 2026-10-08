@@ -22,9 +22,9 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name      = "[YOUR NAME]"
-        self.location  = "[YOUR CITY, COUNTRY]"
-        self.education = "[YOUR DEGREE / COLLEGE]"
+        self.name      = "[Hitesh]"
+        self.location  = "[Haryana, India]"
+        self.education = "[Btech / Arya college of Engineering and information technology]"
         self.focus     = ["Data Cleaning", "EDA", "Visualization", "Storytelling"]
         self.learning  = ["[CURRENT TOPIC, e.g. Power BI]", "Statistics", "Machine Learning basics"]
         self.goal      = "Land a Data Analyst role and turn raw data into real impact"
